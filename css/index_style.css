@@ -1,0 +1,38 @@
+#allTheThings {
+  width: 90%;
+  max-width: 800px;
+  text-align: center;
+  margin: 8em auto;
+  font-size: 2.5rem;
+  color: #f1b430;
+  display: block;
+}
+
+a{
+	color: #eea02b;
+	text-decoration: none;
+}
+
+#member{
+	display: inline-block;
+}
+
+#verticalLine {
+	display: inline-block;
+	margin-left: 100px;
+    border-left: solid #343642;
+}
+
+#librarian-link{
+	margin-left: 100px;
+}
+
+#member, #librarian
+{
+	transition: all .2s ease-in-out;
+}
+
+#member:hover, #librarian:hover
+{
+	transform: scale(1.1);
+}

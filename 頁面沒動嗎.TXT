@@ -1,0 +1,3 @@
+使用 Chrome 瀏覽器：
+
+Ctrl + Shift + R （或是重新整理後，再使用 Ctrl + R 繞過快取）
